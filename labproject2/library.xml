@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Library>
+  <Book Category="Poetry" Year="1840">
+    <Author>Shevchenko T.G.</Author>
+    <Title>Kobzar</Title>
+    <Reader>
+      <Name>Ivanov I.I.</Name>
+      <Department>Systems Engineering</Department>
+    </Reader>
+  </Book>
+  <Book Category="Computer Science">
+    <Author>Knuth D.E.</Author>
+    <Title>The Art of Computer Programming</Title>
+    <Reader>
+      <Name>Petrov P.P.</Name>
+      <Department>Applied Math</Department>
+    </Reader>
+  </Book>
+  <Book Category="Software Engineering" Year="2008" Format="Hardcover">
+    <Author>Martin R.C.</Author>
+    <Title>Clean Code</Title>
+    <Reader>
+      <Name>Sidorov S.S.</Name>
+      <Department>Software Engineering</Department>
+    </Reader>
+  </Book>
+</Library>
